@@ -10,18 +10,18 @@
     <property name="target" value="1.8"/>
     <property name="source" value="1.8"/>
     <path id="JUnit 5.libraryclasspath">
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.jupiter.api_5.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.jupiter.engine_5.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.jupiter.migrationsupport_5.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.jupiter.params_5.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.platform.commons_1.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.platform.engine_1.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.platform.launcher_1.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.platform.runner_1.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.platform.suite.api_1.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.junit.vintage.engine_5.3.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.opentest4j_1.1.1.v20181005-1442.jar"/>
-        <pathelement location="${ECLIPSE_HOME}plugins/org.apiguardian_1.0.0.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.jupiter.api_5.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.jupiter.engine_5.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.jupiter.migrationsupport_5.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.jupiter.params_5.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.platform.commons_1.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.platform.engine_1.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.platform.launcher_1.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.platform.runner_1.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.platform.suite.api_1.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.junit.vintage.engine_5.3.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.opentest4j_1.1.1.v20181005-1442.jar"/>
+        <pathelement location="./junit/org.apiguardian_1.0.0.v20181005-1442.jar"/>
         <pathelement location="./junit/org.junit_4.12.0.v201504281640/junit.jar"/>
         <pathelement location="./junit/org.hamcrest.core_1.3.0.v20180420-1519.jar"/>
     </path>
